@@ -1,0 +1,5 @@
+python --version
+python -m pip install virtualenv
+.\venv\Scripts\activate
+pip install flask
+python app.py
